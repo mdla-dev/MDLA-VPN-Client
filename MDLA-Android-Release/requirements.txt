@@ -1,0 +1,6 @@
+# MDLA Android Requirements
+kivy>=2.1.0
+kivymd>=1.1.1
+aiohttp>=3.8.0
+pyjnius>=1.4.0
+plyer>=2.1.0
